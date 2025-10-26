@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Callum</h1>
+<h1 align="left">Hi, I'm Callum👋</h1>
 
 ###
 
-<p align="left">Computer Science Graduate from Malaysia, Constantly Striving to Elevate my Skills to the Next Level.</p>
+<p align="left">Computer Science Graduate from Malaysia. Constantly Striving to Elevate my Skills to the Next Level.</p>
 
 ###
 
