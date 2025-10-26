@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Callum</h1>
-<h3 align="center">Computer Science Graduate from Malaysia. Always Looking to Hone my Skills to the Next Level.</h3>
+<h3 align="center">Computer Science Graduate from Malaysia. </h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
